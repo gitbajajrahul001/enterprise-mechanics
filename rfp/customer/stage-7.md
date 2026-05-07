@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Stage 7
+title: RFP
 ---
 
 # 🏢 Stage 7 — RFP (Request for Proposal) Creation
 
-## 🎯 Goal
+Now ACME creates a detailed document asking vendors:
 
-Create a detailed document asking vendors:
-
-> “Tell us HOW you will solve our problem and HOW MUCH it will cost”
+"Tell us **HOW** you will solve our problem and **HOW MUCH** it will cost”"
 
 ---
 
@@ -17,12 +15,10 @@ Create a detailed document asking vendors:
 
 A Request for Proposal (RFP) is a formal document that asks vendors to provide:
 
-| Requirement |
-|-------------|
-| Technical solution |
-| Delivery model |
-| Pricing |
-| Timeline |
+- Technical solution
+- Delivery model
+- Pricing 
+- Timeline
 
 ---
 
@@ -38,46 +34,45 @@ A Request for Proposal (RFP) is a formal document that asks vendors to provide:
 
 ---
 
-## 🛠 What Goes into RFP (Detailed)
+## 🛠 What Goes into RFP
 
 ### 1. Company Context
 
-Acme’s current state
+- Acme’s current digital & physical estate
+- Acme’s current challenges. For example:
 
-Challenges:
-
-| Challenge |
-|----------|
-| Shadow IT (uncontrolled IT usage outside governance) |
-| Weak ITSM (Information Technology Service Management) |
-| Poor change management |
+  - Shadow IT (uncontrolled IT usage outside governance) 
+  - Weak ITSM (Information Technology Service Management)
+  - Poor change management
 
 ---
 
 ### 2. Scope of Work
 
-Clearly define expectations:
+Clearly define expectations.
 
-| Scope Area |
-|------------|
-| Cloud migration (VMs, SAP, ERP) |
-| Platform engineering |
-| Automation |
-| Managed services |
+For example:
+
+- Cloud migration (VMs, SAP, ERP)
+- Platform engineering
+- Automation
+- Managed services
 
 ---
 
 ### 3. Technical Requirements
 
-| Requirement |
-|-------------|
-| Cloud platforms (Azure, AWS) |
-| Security expectations (Zero Trust = no implicit trust, always verify) |
-| Automation requirements (Infrastructure as Code) |
+For example:
+
+- Cloud platforms (Azure, AWS)
+- Security expectations (Zero Trust = no implicit trust, always verify)
+- Automation requirements (Infrastructure as Code) 
 
 ---
 
 ### 4. Service Requirements
+
+For example:
 
 | Requirement | Details |
 |-------------|--------|
@@ -90,35 +85,31 @@ Clearly define expectations:
 
 ### 5. Commercial Requirements
 
-| Requirement |
-|-------------|
-| Pricing structure |
-| Billing model |
-| Cost transparency expectations |
+For example:
+
+- Pricing structure
+- Billing model
+- Cost transparency expectations
 
 ---
 
 ### 6. Evaluation Criteria
 
-How Acme will evaluate vendors:
+For example:
 
-| Criteria |
-|----------|
-| Technical capability |
-| Migration experience |
-| Cost competitiveness |
-| Delivery model maturity |
-| Cultural fit |
+- Technical capability
+- Migration experience
+- Cost competitiveness
+- Delivery model maturity
+- Cultural fit
 
 ---
 
 ## 📦 Output
 
-| Output |
-|--------|
-| Final RFP Document |
+- Final RFP Document
 
 ---
 
-[⬅ Back to Series Home](index.md) | [Next: Stage 8 ➡](stage-8.md)
+[⬅ Series Home](index.md) | [⬅ RFI](stage-6.md) | [RFP-Approval➡](stage-8.md)
 
