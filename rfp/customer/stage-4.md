@@ -11,14 +11,12 @@ Now **Acme** defines where it wants to go. This is not yet detailed solution des
 
 The future-state vision should answer questions like:
 
-```text
 - What kind of technology operating model do we want?
 - What should remain on-premise and what should move?
 - What should be standardized?
 - What should be automated? 
 - What controls must be built in from the start?
 - What business outcomes matter most?
-```
 
 In our Acme scenario, the future-state might include goals such as:
 

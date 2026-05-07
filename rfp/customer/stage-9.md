@@ -1,41 +1,54 @@
 ---
 layout: default
-title: Stage 9
+title: Bidder Engagement, Proposal & Evaluation
 ---
 
-# 🏢 Stage 9 — RFP Release to Vendors
+
+# 🏢 Stage 9 — Bidder Engagement, Proposal & Evaluation
 
 ## 🎯 Goal
 
-Start formal vendor engagement
-
----
-
-## 👥 Who Is Involved
-
-| Role |
-|------|
-| Procurement (primary owner) |
+- Ensure vendors clearly understand requirements 
+- Vendors submit their solutions
 
 ---
 
 ## 🛠 What Happens
 
-| Activity |
-|----------|
-| RFP sent to shortlisted vendors |
-| Timeline shared |
-| Q&A window (vendors can ask clarification questions) |
-| Submission deadline |
+### 1. Pre-bid Conference
+
+- Meeting between Acme and vendors
+- Clarifications on scope 
+
+### 2. Q&A Process
+
+- Vendors submit questions
+- Acme responds formally
 
 ---
 
 ## 📦 Output
 
-| Output |
-|--------|
-| Vendors start preparing proposals |
+- Clarified requirements
+- Reduced ambiguity
+- Proposal Submission Components. For example:
+  - Technical architecture
+  - Migration strategy
+  - Delivery model 
+  - Pricing 
+  - Timeline
 
 ---
 
-[⬅ Back to Series Home](index.md) | [Next: Stage 10 ➡](stage-10.md)
+## 🛠 Vendor Evaluation Includes
+
+Select best vendor based on:
+
+- Technical scoring
+- Commercial scoring
+- Risk assessment
+- Vendor presentations
+
+---
+
+[⬅ Series Home](index.md) | [⬅ RFP Approval & Release](stage-8.md) |

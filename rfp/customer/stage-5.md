@@ -3,7 +3,7 @@ layout: default
 title: Sourcing Strategy 
 ---
 
-# 🏢 Stage 5 — Sourcing Strategy Definition
+# 🏢 Stage 5 — Sourcing Strategy
 
 Now we define: How will Acme go to market to find the right partner(s)?
 

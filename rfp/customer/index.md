@@ -43,11 +43,7 @@ I will break this into stages. For each stage, I will cover:
 | Stage 4: Future-State Vision | [Open](stage-4.md) |
 | Stage 5: Sourcing Strategy | [Open](stage-5.md) |
 | Stage 6: RFI | [Open](stage-6.md) |
-| Stage 7: RFP Creation | [Open](stage-7.md) |
-| Stage 8: Internal Review & Approval | [Open](stage-8.md) |
-| Stage 9: RFP Release to Vendors | [Open](stage-9.md) |
-| Stage 10: Bidder Engagement | [Open](stage-10.md) |
-| Stage 11: Proposal Submission | [Open](stage-11.md) |
-| Stage 12: Evaluation | [Open](stage-12.md) |
-
+| Stage 7: RFP  | [Open](stage-7.md) |
+| Stage 8: RFP Approval & Release | [Open](stage-8.md) |
+| Stage 9: Bidder Engagement, Proposal & Evaluation | [Open](stage-9.md) |
 ---

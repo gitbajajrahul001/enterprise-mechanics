@@ -9,7 +9,6 @@ title: Trigger and Problem Recognition
 
 This is the point where Acme realizes that the current model is no longer acceptable. This recognition can be triggered by one or more of the following:
 
-```text
 - Information technology is fragmented
 - Delivery is slow
 - Provisioning takes too long
@@ -18,7 +17,6 @@ This is the point where Acme realizes that the current model is no longer accept
 - Accountability is weak
 - Application and infrastructure standards are inconsistent
 - Business teams are not getting what they need fast enough
-```
 
 **In real world**, this stage often starts informally. Someone senior says: *"This is not sustainable. We need to change how technology is delivered."*
 

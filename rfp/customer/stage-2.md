@@ -12,7 +12,6 @@ This is where ACME starts aligning on what they are actually trying to solve.
 
 Is this about:
 
-```text
 - Data center exit
 - Cloud migration
 - Platform modernization
@@ -21,7 +20,6 @@ Is this about:
 - Managed services
 - Operating model redesign
 - OR, All of the above
-```
 
 This stage is critical because many failed sourcing exercises begin with internal disagreement.
 

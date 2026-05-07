@@ -1,30 +1,27 @@
 ---
 layout: default
-title: Stage 8
+title: RFP Approval & Release
 ---
 
-# 🏢 Stage 8 — Internal Review & Approval
+# 🏢 Stage 8 — RFP Approval & Release
 
 ## 🎯 Goal
 
 Ensure RFP is:
 
-| Objective |
-|----------|
-| Complete |
-| Risk-free |
-| Legally sound |
+- Complete 
+- Risk-free
+- Legally sound
+- Ready for formal vendor engagement
 
 ---
 
 ## 👥 Who Is Involved
 
-| Role |
-|------|
-| CIO / CTO |
-| Procurement |
-| Legal |
-| Risk & Compliance |
+- CIO / CTO |
+- Procurement |
+- Legal |
+- Risk & Compliance |
 
 ---
 
@@ -40,10 +37,17 @@ Ensure RFP is:
 
 ## 📦 Output
 
-| Output |
-|--------|
-| Approved RFP ready for release |
+1) RFP is Approved
+2) RFP released to shortlisted vendors
+3) Timelines shared
+4) Q&A window (vendors can ask clarification questions)
+5) Submission deadline
+
+At this Stage : Vendors now start preparing proposals
+
 
 ---
 
-[⬅ Back to Series Home](index.md) | [Next: Stage 9 ➡](stage-9.md)
+
+
+[⬅ Series Home](index.md) | [⬅ RFP](stage-7.md) | [Bidder Engagement, Proposal & Evaluation➡](stage-9.md)
