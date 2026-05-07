@@ -9,25 +9,24 @@ title: Stage 1
 
 This is the point where Acme realizes that the current model is no longer acceptable. This recognition can be triggered by one or more of the following:
 
-|--------|
-| Information technology is fragmented |
-| Delivery is slow |
-| Provisioning takes too long |
-| Shadow information technology exists |
-| Cost is not well controlled |
-| Accountability is weak |
-| Application and infrastructure standards are inconsistent |
-| Business teams are not getting what they need fast enough |
+```text
+- Information technology is fragmented
+- Delivery is slow
+- Provisioning takes too long
+- Shadow information technology exists
+- Cost is not well controlled
+- Accountability is weak
+- Application and infrastructure standards are inconsistent
+- Business teams are not getting what they need fast enough
+```
 
-In real life, this stage often starts informally.
-
-Someone senior says:
-
-> “This is not sustainable. We need to change how technology is delivered.”
+**In real world**, this stage often starts informally. Someone senior says: *"This is not sustainable. We need to change how technology is delivered."*
 
 ---
 
-## Who Is Involved on the Customer Side
+## Who Is Typlically Involved
+
+Based on the Organization scale and structure, these roles may exist independantly or be merged. However, the basic idea remains the same.
 
 | Role | Description |
 |------|------------|
@@ -44,17 +43,17 @@ Someone senior says:
 
 At this stage, the output is usually not a formal document. It is more like:
 
-| Output |
-|--------|
-| Executive concern |
-| Transformation intent |
-| A decision to investigate options |
+- Executive concern
+- Transformation intent
+- A decision to investigate options
 
 ---
 
 ## What Can Go Wrong Here
 
-If this stage is weak, the company frames the problem too narrowly. For example:
+If this stage is weak, the company frames the problem too narrowly. 
+
+For example:
 
 > “We need cloud”  
 
@@ -62,10 +61,10 @@ Instead of:
 
 > “We need a new operating model for infrastructure, applications, governance, automation, and service delivery”
 
-That difference is huge.
+**That difference is huge.**
 
 ---
 
-[⬅ Back to Series Home](index.md) | [Next: Stage 2 ➡](stage-2.md)
+[⬅ Back to Series Home](index.md) | [⬅ Trigger & Problem Recognition](stage-1.md) | [Next: Stage 2:Scoping & Alignment ➡](stage-2.md)
 
 
