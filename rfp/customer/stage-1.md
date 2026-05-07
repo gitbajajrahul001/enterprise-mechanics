@@ -9,20 +9,15 @@ title: Stage 1
 
 This is the point where Acme realizes that the current model is no longer acceptable. This recognition can be triggered by one or more of the following:
 
-| Trigger |
 |--------|
-| High cost |
-| Poor service quality |
-| Slow provisioning |
-| Repeated outages |
-| Failed audits |
-| Business complaints |
-| Inability to launch products quickly |
-| Low automation |
-| Poor visibility into assets and costs |
-| Too many manual approvals |
-| Dependence on a few key individuals |
-| Inconsistent operations across countries or business units |
+| Information technology is fragmented |
+| Delivery is slow |
+| Provisioning takes too long |
+| Shadow information technology exists |
+| Cost is not well controlled |
+| Accountability is weak |
+| Application and infrastructure standards are inconsistent |
+| Business teams are not getting what they need fast enough |
 
 In real life, this stage often starts informally.
 
