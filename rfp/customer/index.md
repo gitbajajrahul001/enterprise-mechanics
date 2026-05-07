@@ -35,6 +35,7 @@ I will break this into stages. For each stage, I will cover:
 
 **Let's Begin!**
 
+
 | Stage | Link |
 |------|------|
 | Stage 1: Trigger & Problem Recognition | [Open](stage-1.md) |
@@ -46,4 +47,5 @@ I will break this into stages. For each stage, I will cover:
 | Stage 7: RFP  | [Open](stage-7.md) |
 | Stage 8: RFP Approval & Release | [Open](stage-8.md) |
 | Stage 9: Bidder Engagement, Proposal & Evaluation | [Open](stage-9.md) |
+
 ---
