@@ -4,7 +4,7 @@ title: Stage 2
 ---
 # Stage 2: Initial Scoping and Leadership Alignment
 
-At this point, Acme moves from “we have a problem” to “what kind of problem is it?” This is where many sourcing efforts quietly fail.
+At this point, **Acme** moves from “we have a problem” to “what kind of problem is it?” This is where many sourcing efforts quietly fail.
 
 ## What This Stage Is
 
@@ -78,7 +78,7 @@ No one reconciles these into a common vision. **If that happens**, the Request f
 
 ---
 
-[⬅ Back to Series Home](index.md) | [⬅ Stage 2: Scoping & Alignment](stage-2.md) | [Next: Stage 3: Current-State Assessment ➡](stage-3.md)
+[⬅ Series Home](index.md) | [⬅ Trigger & Problem Recognition](stage-1.md) | [Current-State Assessment ➡](stage-3.md)
 
 
 

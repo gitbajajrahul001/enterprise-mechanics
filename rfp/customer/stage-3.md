@@ -5,34 +5,28 @@ title: Stage 3
 
 # Stage 3: Current-State Assessment
 
-Before Acme asks the market for proposals, it needs to understand its own environment well enough to ask sensible questions.
-
-This is where Acme documents the current estate.
-
----
+Before **Acme** asks the market for proposals, it needs to understand its own environment well enough to ask sensible questions.
 
 ## What This Stage Is
 
-In our Acme case, that includes:
+This is where Acme documents the current estate. In our hypothetic case, let's say it includes:
 
-| Current Estate |
-|----------------|
-| 10,000 virtual machines |
-| Container platforms |
-| Legacy applications |
-| Modern applications |
-| Enterprise applications such as systems for finance, supply chain, or enterprise resource planning |
-| Poor process maturity |
-| Shadow information technology |
-| Low automation |
-| Delays in provisioning |
-| Weak cost controls |
+- 10,000 virtual machines
+- Container platforms
+- Legacy applications
+- Modern applications
+- Enterprise applications (Finance/Supply Chain/ERP/HR)
+- Poor process maturity
+- Shadow information technology
+- Low automation
+- Delays in provisioning
+- Weak cost controls
 
 ---
 
-## What “Current-State Assessment” Really Means
+## What this Really Means
 
-It means creating a fact-based picture of:
+ The **Current-State Assessment** means creating a fact-based picture of:
 
 | Area | Description |
 |------|------------|
@@ -44,7 +38,10 @@ It means creating a fact-based picture of:
 
 ---
 
-## Who Is Involved on the Customer Side
+## Who Is Involved
+
+Based on the Organization scale and structure, these roles may exist independantly or be merged. However, the basic idea remains the same.
+
 
 | Role | Description |
 |------|------------|
@@ -56,17 +53,13 @@ It means creating a fact-based picture of:
 | Enterprise architects | They connect the dots across all these domains |
 | Data center, platform, and network specialists | They provide specific technical inputs |
 
----
-
-## Sometimes External Consultants Are Brought In Here
+### **Sometimes External Consultants Are Brought In Here**
 
 This often happens when the internal organization lacks:
 
-| Gap |
-|-----|
-| Inventory quality |
-| Transformation capacity |
-| Neutral assessment capability |
+- Inventory quality
+- Transformation capacity
+- Neutral assessment capability
 
 ---
 
@@ -74,39 +67,35 @@ This often happens when the internal organization lacks:
 
 This stage should produce real artifacts, not vague opinions. Typical outputs include:
 
-| Output |
-|--------|
-| Infrastructure inventory |
-| Application inventory |
-| Dependency view |
-| Current process assessment |
-| Current cost baseline |
-| Risk and pain-point assessment |
-| Maturity assessment |
+- Infrastructure inventory
+- Application inventory
+- Dependency view
+- Current process assessment
+- Current cost baseline
+- Risk and pain-point assessment
+- Maturity assessment
 
 ---
 
 ## What Can Go Wrong Here
 
-This stage is often weak because companies overestimate how well they understand their own estate.
+**This stage is often weak** because companies overestimate how well they understand their own estate.
 
 Typical issues:
 
-| Issue |
-|-------|
-| Inaccurate inventory |
-| Unknown application owners |
-| Missing dependencies |
-| Incomplete cost data |
-| “Tribal knowledge” instead of documented knowledge |
+- Inaccurate inventory
+- Unknown application owners
+- Missing dependencies
+- Incomplete cost data
+- “Tribal knowledge” instead of documented knowledge
+
+> 
+> **Remember:** If the current-state assessment is weak, the Request for Proposal will be weak.
+> 
 
 ---
 
-## Final Insight
+[⬅ Series Home](index.md) | [⬅ Current-State Assessment](stage-2.md) | [Future-State Vision ➡](stage-4.md)
 
-If the current-state assessment is weak, the Request for Proposal will be weak.
 
----
-
-[⬅ Back to Series Home](index.md) | [Next: Stage 4 ➡](stage-4.md)
 

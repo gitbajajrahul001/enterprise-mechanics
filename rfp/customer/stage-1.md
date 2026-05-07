@@ -65,6 +65,6 @@ Instead of:
 
 ---
 
-[⬅ Back to Series Home](index.md) | [⬅ Trigger & Problem Recognition](stage-1.md) | [Next: Stage 2: Scoping & Alignment ➡](stage-2.md)
+[⬅ Series Home](index.md) | [Next: Scoping & Alignment ➡](stage-2.md)
 
 

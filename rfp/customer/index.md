@@ -15,7 +15,7 @@ The diagram below provides a high-level view of how an enterprise RFP lifecycle 
 
 ---
 
-## The Real Purpose of the RFP Process
+## 🎯 The Real Purpose of the RFP Process
 
 An RFP is a formal document that an organization sends to selected vendors asking them to propose a solution for a business problem. But in practice, it is more than that. **The RFP is a structured process for turning a messy business problem into a clear market ask.**
 
@@ -51,5 +51,3 @@ I will break this into stages. For each stage, I will cover:
 | Stage 12: Evaluation | [Open](stage-12.md) |
 
 ---
-
-[Next: Stage 1: Trigger & Problem Recognition ➡](stage-1.md)
