@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Inside the RFP (Provider)
+title: Provider Response - From RFP Receipt to Finalization
 ---
 
-## 📚 Explore the RFP Stages at Provider Side
+## 🤝 Provider Response: RFP Stages
 
-I have listed the main RFP response stages that are typically followed in a service provider organization. Depending upon the complexity or scale of the RFP, these stages may collapse or expand as necessary. The objective here is to establish basic level of understanding who is currently struggling to find all this information at once place.
+This section covers the key stages a service provider typically follows after receiving an RFP.
+
+The stages may expand or collapse depending on the deal size, solution complexity, timelines, approvals, and governance model.
+
+The goal is simple: to provide a structured, end-to-end view of how a provider qualifies, shapes, prices, submits, and negotiates an RFP response.
 
 | Stage | Link |
 |------|------|
@@ -23,4 +27,4 @@ I have listed the main RFP response stages that are typically followed in a serv
 
 ---
 
-➡️ Next: [Stage 1](stage-1.md)
+➡️ Next: [Stage 1: RFP Receipt & Initial Qualification](stage-1.md)
