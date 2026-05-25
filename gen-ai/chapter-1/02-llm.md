@@ -171,7 +171,7 @@ Instead, it learns:
 This is critically important.
 
 Because it explains:
-- hallucinations,
+- hallucinations(covered later),
 - inconsistent answers,
 - prompt sensitivity,
 - reasoning limitations,

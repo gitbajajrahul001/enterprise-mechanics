@@ -18,12 +18,12 @@ They process:
 > tokens.
 
 Tokens are one of the most foundational concepts in modern AI because nearly everything depends on them:
-- context windows,
+- context windows(covered later),
 - pricing,
 - memory limits,
 - latency,
 - retrieval,
-- embeddings,
+- embeddings(covered later),
 - and generation behavior.
 
 Without understanding tokens, it becomes difficult to reason properly about how LLMs operate internally.
@@ -169,7 +169,7 @@ Tokens are effectively the operational currency of modern LLM systems.
 
 They directly impact:
 - memory consumption,
-- inference cost,
+- inference cost(covered later),
 - latency,
 - scalability,
 - and retrieval efficiency.
@@ -190,7 +190,7 @@ At scale, poor token management becomes:
 
 # Why Token Limits Exist
 
-Transformers process relationships between tokens using attention mechanisms.
+Transformers process relationships between tokens using **attention** (covered later) mechanisms.
 
 As token counts increase:
 - computation increases rapidly,

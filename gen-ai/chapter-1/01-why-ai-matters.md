@@ -151,7 +151,7 @@ However, underneath:
 are driving the behavior.
 
 This distinction becomes critically important later when discussing:
-- hallucinations,
+- hallucinations(covered later),
 - prompt engineering,
 - retrieval systems,
 - agents,
