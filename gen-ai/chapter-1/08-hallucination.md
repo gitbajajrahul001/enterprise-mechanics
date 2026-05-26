@@ -333,7 +333,7 @@ Fluency does not equal factual accuracy.
 
 Reality:
 
-Even advanced frontier models hallucinate under:
+Even advanced frontier models(covered in Chapter-3) hallucinate under:
 - ambiguity,
 - missing context,
 - retrieval failure,
