@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Architecture, Business & Decision Thinking
+title: Enterprise Business
 nav_order: 4
 has_children: true
 ---

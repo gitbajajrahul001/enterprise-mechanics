@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Observability | Foundations
+title: Enterprise Observability
 nav_order: 10
 has_children: true
 ---

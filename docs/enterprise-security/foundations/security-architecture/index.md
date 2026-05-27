@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Security Architecture in the Enterprise
+title: Enterprise Security
 nav_order: 9
 has_children: true
 ---

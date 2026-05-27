@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Network Architecture in the Enterprise
+title: Enterprise Network
 nav_order: 6
 has_children: true
 ---

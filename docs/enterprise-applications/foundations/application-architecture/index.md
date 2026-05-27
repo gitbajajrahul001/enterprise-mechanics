@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Application Architecture in the Enterprise
+title: Enterprise Application
 nav_order: 8
 has_children: true
 ---
