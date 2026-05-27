@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sourcing Strategy 
+
 ---
 
 # 🏢 Stage 5 — Sourcing Strategy

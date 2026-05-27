@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Inside the Room (Real Conversations)
+nav_exclude: true
 ---
 
 # Inside the Room (Real Conversations)

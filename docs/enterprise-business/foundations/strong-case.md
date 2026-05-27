@@ -1,7 +1,7 @@
-
 ---
 layout: default
 title: How to Build a Strong Case
+
 ---
 
 # How to Build a Strong Case

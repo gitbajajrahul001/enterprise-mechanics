@@ -2,6 +2,7 @@
 
 layout: default
 title: Designing Management Group
+nav_exclude: true
 
 ---
 

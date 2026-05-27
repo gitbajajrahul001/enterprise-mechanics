@@ -3,22 +3,17 @@ remote_theme: just-the-docs/just-the-docs
 title: Enterprise Mechanics
 
 description: >-
-  How Enterprise Cloud, AI, Architecture, Governance,
+  How Enterprise Cloud, AI, Architecture, Governance, 
   Automation, and Technology Decision-Making actually work in practice
 
 url: "https://gitbajajrahul001.github.io"
 baseurl: "/enterprise-mechanics"
-
-color_scheme: dark
 
 search_enabled: true
 
 heading_anchors: true
 
 permalink: pretty
-
-aux_links:
-  GitHub Repository: "https://github.com/gitbajajrahul001/enterprise-mechanics"
 
 plugins:
   - jekyll-remote-theme

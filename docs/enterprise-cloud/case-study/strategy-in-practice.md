@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Strategy in Practice
+nav_exclude: true
 ---
 
 # Phase 1 – Strategy in Practice

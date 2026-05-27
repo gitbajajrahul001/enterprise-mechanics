@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Business Thinking for Architects
+nav_exclude: true
 ---
 
 # Business Thinking for Architects

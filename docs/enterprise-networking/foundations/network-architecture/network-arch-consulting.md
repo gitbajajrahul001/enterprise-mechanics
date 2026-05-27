@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Network Architecture | Consulting Approach
+nav_exclude: true
 ---
 
 # Network Architecture – Consulting Approach

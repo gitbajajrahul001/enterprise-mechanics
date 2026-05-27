@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Application Architecture | Case Study
+nav_exclude: true
 ---
 
 # Application Architecture – Case Study (ACME Corp)

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ready Phase
+nav_exclude: true
 ---
 
 # Ready Phase – Establishing the Cloud Foundation

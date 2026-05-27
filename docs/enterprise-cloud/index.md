@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Cloud Adoption Framework
+title: Enterprise Cloud
+nav_order: 3
+has_children: true
 ---
 
 # Enterprise Cloud Adoption Framework

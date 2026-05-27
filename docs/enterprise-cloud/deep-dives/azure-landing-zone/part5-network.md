@@ -2,6 +2,7 @@
 
 layout: default
 title: Designing Network Architecture
+nav_exclude: true
 
 ---
 

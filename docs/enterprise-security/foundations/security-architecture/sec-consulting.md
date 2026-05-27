@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Security Architecture | Consulting Approach
+nav_exclude: true
 ---
 
 # Security Architecture – Consulting Approach

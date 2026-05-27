@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stage-4
+nav_exclude: true
 ---
 
 # 🏢 Stage 4 — Solution Design & Architecture

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Adoption in Practice
+nav_exclude: true
 ---
 
 # Phase 4 – Adoption in Practice

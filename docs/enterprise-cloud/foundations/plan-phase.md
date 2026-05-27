@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plan Phase
+nav_exclude: true
 ---
 
 # Plan Phase – Structuring Cloud Adoption Execution

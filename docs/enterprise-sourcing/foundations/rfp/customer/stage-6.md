@@ -1,6 +1,7 @@
 ---
 layout: default
 title: RFI
+nav_exclude: true
 ---
 
 # 🏢 Stage 6 — RFI: Request for Information

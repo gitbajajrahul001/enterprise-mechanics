@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Planning in Practice
+nav_exclude: true
 ---
 
 # Phase 2 – Planning in Practice

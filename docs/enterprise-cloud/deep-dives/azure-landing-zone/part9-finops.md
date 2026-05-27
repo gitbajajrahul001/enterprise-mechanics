@@ -2,6 +2,7 @@
 
 layout: default
 title: FinOps & Cost Strategy
+nav_exclude: true
 
 ---
 

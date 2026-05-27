@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Enterprise Case Study
+nav_exclude: true
 ---
 
 # Enterprise Case Study

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Security Architecture | Foundation
+nav_exclude: true
 ---
 
 # Security Architecture – Foundation

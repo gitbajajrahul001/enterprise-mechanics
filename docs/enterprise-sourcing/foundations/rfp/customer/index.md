@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Buyer's Journey - From Problem to Sourcing Decision
+nav_exclude: true
 ---
 
 ## 🏢 Buyer's Journey: RFP Stages

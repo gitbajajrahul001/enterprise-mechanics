@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Observability | Consulting Approach
+nav_exclude: true
 ---
 
 # Observability – Consulting Approach

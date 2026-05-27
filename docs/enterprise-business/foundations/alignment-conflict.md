@@ -1,8 +1,7 @@
-
-
 ---
 layout: default
 title: Alignment & Conflict
+nav_exclude: true
 ---
 
 # Alignment & Conflict

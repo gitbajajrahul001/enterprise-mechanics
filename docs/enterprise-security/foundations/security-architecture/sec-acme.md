@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Security Architecture | Case Study
+nav_exclude: true
 ---
 
 # Security Architecture – Case Study (ACME Corp)

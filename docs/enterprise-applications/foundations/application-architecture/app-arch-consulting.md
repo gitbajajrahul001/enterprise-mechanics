@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Application Architecture | Consulting Approach
+nav_exclude: true
 ---
 
 # Application Architecture – Consulting Approach

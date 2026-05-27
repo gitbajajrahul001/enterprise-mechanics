@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Strategy Phase
+nav_exclude: true
 ---
 
 # Strategy Phase – Defining the Direction for Cloud Adoption

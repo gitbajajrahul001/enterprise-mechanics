@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Why Technology Decisions Get Challenged
+nav_exclude: true
 ---
 
 # Why Technology Decisions Get Challenged

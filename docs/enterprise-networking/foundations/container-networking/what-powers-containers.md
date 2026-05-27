@@ -1,6 +1,7 @@
 ---
 layout: default
 title: What Actually Powers Containers — The Missing Foundation
+nav_exclude: true
 ---
 
 # 🧠 What Actually Powers Containers — The Missing Foundation

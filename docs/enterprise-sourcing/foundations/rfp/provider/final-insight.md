@@ -1,6 +1,7 @@
 ---
 layout: default
 title: final-insight
+nav_exclude: true
 ---
 
 

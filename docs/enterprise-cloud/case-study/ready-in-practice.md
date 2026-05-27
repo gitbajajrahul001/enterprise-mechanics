@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ready in Practice
+nav_exclude: true
 ---
 
 # Phase 3 – Ready in Practice

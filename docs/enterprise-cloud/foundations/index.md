@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Foundations
+nav_exclude: true
 ---
 
 # Foundations

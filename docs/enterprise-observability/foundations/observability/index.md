@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Observability | Foundations
+nav_exclude: true
 ---
 
 # Observability – Foundations

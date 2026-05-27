@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Azure Landing Zone Deep Dive
+nav_exclude: true
 ---
 
 

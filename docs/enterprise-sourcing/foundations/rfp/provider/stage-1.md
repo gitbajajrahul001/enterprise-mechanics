@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stage-1
+nav_exclude: true
 ---
 
 # 🏢 Stage 1 — RFP Receipt & Initial Qualification

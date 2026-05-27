@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Observability | Case Study
+nav_exclude: true
 ---
 
 # Observability – Case Study (ACME Corp)

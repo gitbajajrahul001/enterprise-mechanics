@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Application Architecture | Foundations
+nav_exclude: true
 ---
 
 # Application Architecture – Foundations

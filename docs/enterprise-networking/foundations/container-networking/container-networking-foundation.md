@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lab-1|Container Networking Foundation
+nav_exclude: true
 ---
 
 ## Understanding Container Networking from First Principles

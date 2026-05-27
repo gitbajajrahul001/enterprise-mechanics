@@ -1,9 +1,7 @@
-
-
-
 ---
 layout: default
 title: Why Good Ideas Still Fail
+nav_exclude: true
 ---
 
 # Why Good Ideas Still Fail

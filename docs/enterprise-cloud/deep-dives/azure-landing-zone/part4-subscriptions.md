@@ -2,6 +2,7 @@
 
 layout: default
 title: Designing Subscription Strategy
+nav_exclude: true
 
 ---
 

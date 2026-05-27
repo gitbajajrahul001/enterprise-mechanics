@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ACME Overview
+nav_exclude: true
 ---
 
 # ACME Corp – Enterprise Cloud Transformation Case Study

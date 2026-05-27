@@ -1,6 +1,7 @@
 ---
 layout: default
 title: RFP
+
 ---
 
 # 🏢 Stage 7 — RFP (Request for Proposal) Creation

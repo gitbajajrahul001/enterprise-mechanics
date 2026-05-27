@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Network Architecture | Case Study
+nav_exclude: true
 ---
 
 # Network Architecture – Case Study (ACME Corp)

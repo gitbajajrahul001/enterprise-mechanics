@@ -2,6 +2,7 @@
 
 layout: default
 title: Deployment & Automation
+nav_exclude: true
 
 ---
 

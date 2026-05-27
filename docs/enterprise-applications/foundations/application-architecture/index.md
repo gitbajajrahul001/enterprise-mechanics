@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Application Architecture in the Enterprise
+nav_exclude: true
 ---
 
 # 📚 Application Architecture in the Enterprise

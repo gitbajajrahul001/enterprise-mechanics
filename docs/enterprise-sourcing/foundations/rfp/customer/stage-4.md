@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Future-State Vision
+nav_exclude: true
 ---
 
 # Stage 4: Future-State Vision

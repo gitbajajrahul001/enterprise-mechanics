@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Trigger and Problem Recognition
+nav_exclude: true
 ---
 
 # Stage 1: Trigger and Problem Recognition

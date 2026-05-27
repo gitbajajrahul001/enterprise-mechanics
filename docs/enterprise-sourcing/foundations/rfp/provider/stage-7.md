@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stage-7
+nav_exclude: true
 ---
 
 

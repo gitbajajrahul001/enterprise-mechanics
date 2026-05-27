@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Adopt Phase
+nav_exclude: true
 ---
 
 # Adopt Phase – Executing Cloud Adoption

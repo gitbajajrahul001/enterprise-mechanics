@@ -2,6 +2,7 @@
 
 layout: default
 title: Opinionated Architecture
+nav_exclude: true
 
 ---
 

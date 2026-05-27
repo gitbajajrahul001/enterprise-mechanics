@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stage-2
+nav_exclude: true
 ---
 
 # 🏢 Stage 2 — RFP Analysis & Response Strategy

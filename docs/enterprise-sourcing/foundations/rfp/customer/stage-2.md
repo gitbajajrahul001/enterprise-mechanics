@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scoping & Alignment
+nav_exclude: true
 ---
 # Stage 2: Initial Scoping and Leadership Alignment
 

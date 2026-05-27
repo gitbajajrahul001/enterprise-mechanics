@@ -1,7 +1,7 @@
-
 ---
 layout: default
 title: How Decisions Actually Move
+nav_exclude: true
 ---
 
 # How Decisions Actually Move

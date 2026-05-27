@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stage-5
+nav_exclude: true
 ---
 
 # 🏢 Stage 5 — Delivery Model & Operating Model Design

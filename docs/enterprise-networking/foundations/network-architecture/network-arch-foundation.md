@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Network Architecture | Foundations
+nav_exclude: true
 ---
 
 # Network Architecture – Foundations
