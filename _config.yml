@@ -1,10 +1,24 @@
 theme: minima
-title: Enterprise Internals
-description: "How Enterprise Systems, Cloud, Automation, and Strategy Actually Work in Practice"
+
+title: Enterprise Mechanics
+
+description: >-
+  How Enterprise Cloud, AI, Architecture, Governance,
+  Automation, and Technology Decision-Making actually work in practice
+
+url: "https://gitbajajrahul001.github.io"
+baseurl: "/enterprise-mechanics"
+
 sass:
   style: compressed
-  
+
 header_pages:
   - index.md
   - about.md
 
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+permalink: pretty
