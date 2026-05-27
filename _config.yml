@@ -2,6 +2,8 @@ remote_theme: just-the-docs/just-the-docs
 
 title: Enterprise Mechanics
 
+logo: "/assets/images/logo.png"
+
 description: >-
   How Enterprise Cloud, AI, Architecture, Governance, 
   Automation, and Technology Decision-Making actually work in practice
