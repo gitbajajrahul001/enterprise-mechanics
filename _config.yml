@@ -18,13 +18,7 @@ heading_anchors: true
 permalink: pretty
 
 aux_links:
-  GitHub Repository:
-    - "https://github.com/gitbajajrahul001/enterprise-mechanics"
-
-nav_enabled: true
-
-footer_content: "Enterprise Mechanics"
+  GitHub Repository: "https://github.com/gitbajajrahul001/enterprise-mechanics"
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
