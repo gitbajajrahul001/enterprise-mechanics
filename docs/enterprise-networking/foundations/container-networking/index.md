@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Container Networking
-nav_order: 7
-has_children: true
+nav_exclude: true
 ---
 
 # 📚 Container Networking
