@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Current-State Assessment
-
+title: Current State Assessment
+nav_exclude: true
 ---
 
 # Stage 3: Current-State Assessment

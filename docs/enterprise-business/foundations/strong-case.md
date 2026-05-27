@@ -1,8 +1,9 @@
 ---
 layout: default
 title: How to Build a Strong Case
-
+nav_exclude: true
 ---
+
 
 # How to Build a Strong Case
 

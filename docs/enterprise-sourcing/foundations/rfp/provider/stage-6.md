@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Stage-6
-
+title: Stage 6
+nav_exclude: true
 ---
 
 # 🏢 Stage 6 — Commercial Model & Pricing
