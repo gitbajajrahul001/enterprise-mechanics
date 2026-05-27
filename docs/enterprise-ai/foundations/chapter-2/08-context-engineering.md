@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Context Engineering
 > Understanding how modern AI systems construct, prioritize, and optimize information before inference occurs.

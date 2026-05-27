@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Understanding Semantics in AI
 
 ## What is Semantics?

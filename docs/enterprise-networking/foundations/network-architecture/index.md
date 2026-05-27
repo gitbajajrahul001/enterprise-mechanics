@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Network Architecture in the Enterprise
-nav_exclude: true
+nav_order: 6
+has_children: true
 ---
 
 # 📚 Network Architecture in the Enterprise

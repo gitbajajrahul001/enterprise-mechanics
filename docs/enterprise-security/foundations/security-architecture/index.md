@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Security Architecture in the Enterprise
-nav_exclude: true
+nav_order: 9
+has_children: true
 ---
 
 # 📚 Security Architecture in the Enterprise

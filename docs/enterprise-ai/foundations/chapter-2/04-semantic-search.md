@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Semantic Search
 > Understanding how modern AI systems search by meaning instead of exact keywords.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Metadata and Grounding
 > Understanding how modern AI systems establish contextual reliability, retrieval precision, and enterprise trust.

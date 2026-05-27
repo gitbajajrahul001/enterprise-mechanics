@@ -2,7 +2,8 @@
 
 layout: default
 title: Enterprise Sourcing-The RFP Lifecycle Explained
-nav_exclude: true
+nav_order: 3
+has_children: true
 ---
 
 

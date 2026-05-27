@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Memory Systems
 > Understanding how modern AI systems simulate continuity, persistence, and contextual awareness across interactions.

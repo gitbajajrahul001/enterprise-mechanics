@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 1 — Core Primitives
 # The Big Picture
 > Connecting the foundational building blocks of modern AI systems.

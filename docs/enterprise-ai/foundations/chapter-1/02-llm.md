@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 1 — Core Primitives
 # What Is an LLM?
 > Understanding the foundational engine behind modern AI systems.

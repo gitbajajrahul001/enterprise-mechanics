@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Structured vs Unstructured Data
 > Understanding the fundamental difference between traditional enterprise data systems and modern AI-operable knowledge systems.

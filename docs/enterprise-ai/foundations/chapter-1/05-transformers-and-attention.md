@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 1 — Core Primitives
 # Transformers and Attention
 > Understanding the architectural breakthrough behind modern LLMs.

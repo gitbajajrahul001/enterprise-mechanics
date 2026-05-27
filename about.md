@@ -6,7 +6,7 @@ nav_order: 2
 
 # About Me
 
-I’m Rahul Bajaj — an enterprise architecture and cloud transformation professional with 17+ years of experience working across Banking, Pharma, Manufacturing, and Energy sectors.
+My name is **Rahul Bajaj** — an enterprise architecture and cloud transformation professional with 17+ years of experience working across Banking, Pharma, Manufacturing, and Energy sectors.
 
 My work focuses on how large-scale enterprise systems evolve across:
 - cloud platforms

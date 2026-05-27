@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 1 — Core Primitives
 # RAG (Retrieval-Augmented Generation)
 > Understanding how modern AI systems retrieve external knowledge to improve reliability and contextual accuracy.

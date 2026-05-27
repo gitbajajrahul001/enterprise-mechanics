@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 1 — Core Primitives
 # Hallucinations
 > Understanding why language models generate incorrect or fabricated outputs.

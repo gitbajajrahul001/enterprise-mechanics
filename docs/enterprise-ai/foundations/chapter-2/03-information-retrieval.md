@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Information Retrieval
 > Understanding how modern AI systems locate relevant knowledge across massive information spaces.

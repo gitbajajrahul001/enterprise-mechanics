@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Vector Databases
 > Understanding the infrastructure layer that powers semantic retrieval in modern AI systems.

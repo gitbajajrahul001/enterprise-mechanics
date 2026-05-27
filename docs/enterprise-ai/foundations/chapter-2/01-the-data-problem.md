@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # The Data Problem
 > Understanding why modern AI systems are fundamentally constrained by information quality, retrieval quality, and data architecture.

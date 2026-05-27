@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Architecture, Business & Decision Thinking
-nav_exclude: true
+nav_order: 4
+has_children: true
 ---
 
 # Architecture, Business & Decision Thinking

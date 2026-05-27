@@ -1,3 +1,9 @@
+---
+layout: default
+title: ACME Overview
+nav_exclude: true
+---
+
 # Chapter 2 — Data and Information Architecture
 # Chunking Strategies
 > Understanding how enterprise knowledge is divided, structured, and prepared for retrieval in modern AI systems.
