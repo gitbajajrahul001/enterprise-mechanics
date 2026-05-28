@@ -2,7 +2,9 @@ remote_theme: just-the-docs/just-the-docs
 
 title: Enterprise Mechanics
 
-logo: "/assets/images/logo.png"
+logo: "/assets/images/sidebar-logo.png"
+
+site_logo: "/assets/images/sidebar-logo.png"
 
 description: >-
   How Enterprise Cloud, AI, Architecture, Governance, 
