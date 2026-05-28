@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# 🏢 Enterprise Mechanics
+# 🏢 Enterprise Internals
 
 ### How Enterprise Cloud, AI, Architecture, Governance, Automation, and Technology Decision-Making actually work in practice
 
@@ -18,7 +18,7 @@ Real enterprise environments are shaped by:
 - platform maturity
 - cloud and AI transformation
 
-Enterprise Mechanics is a structured knowledge platform focused on:
+Enterprise Internals is a structured knowledge platform focused on:
 - enterprise cloud transformation
 - platform engineering
 - enterprise AI adoption

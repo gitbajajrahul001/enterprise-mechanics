@@ -1,8 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 
-title: Enterprise Mechanics
-
-logo: "/assets/images/sidebar-logo.png"
+title: Enterprise Internals
 
 site_logo: "/assets/images/sidebar-logo.png"
 
@@ -11,7 +9,7 @@ description: >-
   Automation, and Technology Decision-Making actually work in practice
 
 url: "https://gitbajajrahul001.github.io"
-baseurl: "/enterprise-mechanics"
+baseurl: "/enterprise-internals"
 
 search_enabled: true
 

@@ -25,7 +25,7 @@ They are usually a combination of:
 - organizational complexity
 - business priorities
 
-Enterprise Mechanics is my attempt to document and simplify those patterns through practical, experience-driven thinking.
+Enterprise Internals is my attempt to document and simplify those patterns through practical, experience-driven thinking.
 
 ---
 

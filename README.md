@@ -1,8 +1,8 @@
-# Enterprise Mechanics
+# Enterprise Internals
 
 > How Enterprise Cloud, AI, Architecture, Governance, Automation, and Technology Decision-Making actually work in practice
 
-Enterprise Mechanics is a structured knowledge platform focused on how large-scale enterprise systems are designed, governed, operated, and evolved in real-world environments.
+Enterprise Internals is a structured knowledge platform focused on how large-scale enterprise systems are designed, governed, operated, and evolved in real-world environments.
 
 The platform connects:
 - enterprise architecture
@@ -69,7 +69,7 @@ Enterprise reality is shaped by:
 - platform maturity
 - cloud and AI transformation
 
-Enterprise Mechanics exists to bridge the gap between:
+Enterprise Internals exists to bridge the gap between:
 - theoretical technology concepts
 and
 - how enterprise systems actually operate at scale
@@ -93,7 +93,7 @@ and
 ## GitHub Pages
 
 ```text
-https://gitbajajrahul001.github.io/enterprise-mechanics/
+https://gitbajajrahul001.github.io/enterprise-Internals/
 ```
 
 ---
