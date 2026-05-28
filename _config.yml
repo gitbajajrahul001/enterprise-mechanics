@@ -2,8 +2,6 @@ remote_theme: just-the-docs/just-the-docs
 
 title: Enterprise Internals
 
-logo: "/assets/images/sidebar-logo.png"
-
 description: >-
   How Enterprise Cloud, AI, Architecture, Governance, 
   Automation, and Technology Decision-Making actually work in practice
@@ -17,7 +15,7 @@ heading_anchors: true
 
 permalink: pretty
 
-footer_content: ""
+footer_content: " "
 
 plugins:
   - jekyll-remote-theme

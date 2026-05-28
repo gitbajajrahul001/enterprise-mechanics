@@ -8,6 +8,8 @@ nav_order: 1
 
 <div class="hero-text">
 
+<img src="assets/images/sidebar-logo.png" class="hero-logo" alt="Enterprise Internals Logo">
+
 <h1>Enterprise Internals</h1>
 
 <p class="hero-subtitle">
