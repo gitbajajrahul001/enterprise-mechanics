@@ -4,30 +4,26 @@ title: Home
 nav_order: 1
 ---
 
-# 🏢 Enterprise Internals
+<div class="hero-section">
 
-### How Enterprise Cloud, AI, Architecture, Governance, Automation, and Technology Decision-Making actually work in practice
+<div class="hero-text">
 
-Most technology content explains tools and services in isolation.
+<h1>Enterprise Internals</h1>
 
-Real enterprise environments are shaped by:
-- architecture trade-offs
-- governance constraints
-- operational complexity
-- business priorities
-- platform maturity
-- cloud and AI transformation
+<p class="hero-subtitle">
+Understanding how enterprise systems, cloud platforms, governance,
+automation, AI, and technology strategy actually work in practice.
+</p>
 
-Enterprise Internals is a structured knowledge platform focused on:
-- enterprise cloud transformation
-- platform engineering
-- enterprise AI adoption
-- governance and automation
-- architecture and operational strategy
+<p class="hero-description">
+A structured knowledge platform focused on enterprise architecture,
+cloud transformation, platform engineering, operational strategy,
+and enterprise AI adoption.
+</p>
 
-The content is designed to connect enterprise technology concepts with real-world implementation, operational, and transformation patterns.
+</div>
 
----
+</div>
 
 
 # 🧭 Knowledge Domains
