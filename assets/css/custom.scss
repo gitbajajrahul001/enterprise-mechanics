@@ -144,3 +144,52 @@
   border-color: #2563eb;
   color: #111827;
 }
+
+.featured-series-heading {
+  margin-top: 5rem;
+}
+
+.series-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.75rem;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+.series-card {
+  padding: 2rem;
+  border-radius: 18px;
+  background: linear-gradient(to bottom right, #ffffff, #f8fafc);
+  border: 1px solid #e5e7eb;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.03);
+}
+
+.series-card:hover {
+  transform: translateY(-4px);
+  border-color: #2563eb;
+  box-shadow: 0 14px 30px rgba(37,99,235,0.08);
+}
+
+.series-card h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  letter-spacing: -0.5px;
+}
+
+.series-card h3 a {
+  text-decoration: none;
+  color: #111827;
+}
+
+.series-card h3 a:hover {
+  color: #2563eb;
+}
+
+.series-card p {
+  color: #4b5563;
+  line-height: 1.8;
+  margin-bottom: 0;
+}

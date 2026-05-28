@@ -98,3 +98,32 @@ and enterprise AI adoption.
 <div class="audience-chip">Enterprise Technology Professionals</div>
 
 </div>
+
+<div class="section-heading featured-series-heading">
+<h2>Featured Series</h2>
+<p>Curated enterprise transformation and architecture series designed around real-world implementation, consulting, governance, and operational execution.</p>
+</div>
+
+<div class="series-grid">
+
+<div class="series-card">
+<h3><a href="docs/enterprise-cloud/index.html">Enterprise Cloud Transformation</a></h3>
+<p>Cloud adoption frameworks, enterprise migration strategy, landing zones, governance, and transformation execution.</p>
+</div>
+
+<div class="series-card">
+<h3><a href="docs/enterprise-ai/index.html">Enterprise AI Foundations</a></h3>
+<p>LLMs, RAG architecture, enterprise AI adoption, operational AI patterns, and Gen-AI implementation thinking.</p>
+</div>
+
+<div class="series-card">
+<h3><a href="docs/enterprise-cloud/deep-dives/landing-zones.html">Azure Landing Zones</a></h3>
+<p>Enterprise-scale landing zone architecture, governance boundaries, connectivity, identity, and platform design.</p>
+</div>
+
+<div class="series-card">
+<h3><a href="docs/enterprise-business/index.html">Architecture & Business Thinking</a></h3>
+<p>How enterprise architecture aligns with business priorities, sourcing, governance, operating models, and transformation strategy.</p>
+</div>
+
+</div>

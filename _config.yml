@@ -17,5 +17,7 @@ heading_anchors: true
 
 permalink: pretty
 
+footer_content: ""
+
 plugins:
   - jekyll-remote-theme
