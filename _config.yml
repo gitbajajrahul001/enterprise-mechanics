@@ -2,7 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 
 title: Enterprise Internals
 
-site_logo: "/assets/images/sidebar-logo.png"
+logo: "/assets/images/sidebar-logo.png"
 
 description: >-
   How Enterprise Cloud, AI, Architecture, Governance, 
