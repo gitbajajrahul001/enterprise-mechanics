@@ -592,4 +592,4 @@ Cloud adoption succeeds when strategy aligns technology decisions with business 
 
 ---
 
-[⬅ Series Home](index.md) | [Next➡](plan-phase.md)
+[⬅ Series Home](index.md) | [Plan-Phase➡](plan-phase.md)

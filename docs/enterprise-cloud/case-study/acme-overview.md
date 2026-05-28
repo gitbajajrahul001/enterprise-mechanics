@@ -300,4 +300,4 @@ This established the foundation for all subsequent planning and execution activi
 
 ---
 
-[⬅ Back to Series Home](index.md) | [Next: Strategy in Practice ➡](acme-strategy.md)
+[⬅ Back to Series Home](index.md) | [Strategy Phase ➡](strategy-in-practice.md)

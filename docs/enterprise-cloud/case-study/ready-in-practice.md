@@ -429,4 +429,4 @@ This led into the Adopt phase, where cloud transformation would move from archit
 
 ---
 
-[⬅ Series Home](index.md) |[⬅ Back](plan-in-practice.md) | [Next➡](adopt-in-practice.md)
+[⬅ Series Home](index.md) |[⬅ Plan Phase](plan-in-practice.md) | [Adopt Phase ➡](adopt-in-practice.md)

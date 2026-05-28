@@ -430,4 +430,4 @@ A well-structured planning approach enables organizations to:
 
 ---
 
-[⬅ Series Home](index.md) |[⬅ Back](strategy-phase.md) | [Next➡](plan-phase.md)
+[⬅ Series Home](index.md) |[⬅ Strategy Phase](strategy-phase.md) | [Ready Phase➡](ready-phase.md)

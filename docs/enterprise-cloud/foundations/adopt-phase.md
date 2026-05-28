@@ -470,4 +470,4 @@ rather than becoming long-term transformation failures.
 
 ---
 
-[⬅ Series Home](index.md) |[⬅ Back](ready-phase.md) 
+[⬅ Series Home](index.md) |[⬅ Ready Phase](ready-phase.md) 

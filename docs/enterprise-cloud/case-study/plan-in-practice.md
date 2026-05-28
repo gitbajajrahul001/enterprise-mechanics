@@ -370,4 +370,4 @@ This led directly into the Ready phase, where architectural plans would become o
 
 ---
 
-[⬅ Series Home](index.md) |[⬅ Back](strategy-in-practice.md) | [Next➡](ready-in-practice.md)
+[⬅ Series Home](index.md) |[⬅ Strategy Phase](strategy-in-practice.md) | [Ready Phase ➡](ready-in-practice.md)

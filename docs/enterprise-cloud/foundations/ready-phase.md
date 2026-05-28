@@ -503,4 +503,4 @@ Cloud adoption scales successfully only when the foundational platform is design
 
 ---
 
-[⬅ Series Home](index.md) |[⬅ Back](plan-phase.md) | [Next➡](adopt-phase.md)
+[⬅ Series Home](index.md) |[⬅ Plan Phase](plan-phase.md) | [Adopt Phase➡](adopt-phase.md)

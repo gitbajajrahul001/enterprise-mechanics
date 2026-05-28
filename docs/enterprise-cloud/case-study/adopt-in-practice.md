@@ -433,4 +433,4 @@ focused on sustaining scalable and governed cloud operations over time.
 
 ---
 
-[⬅ Series Home](index.md) |[⬅ Back](adopt-in-practice.md) 
+[⬅ Series Home](index.md) |[⬅ Ready Phase](ready-in-practice.md) 

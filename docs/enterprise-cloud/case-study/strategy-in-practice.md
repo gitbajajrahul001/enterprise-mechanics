@@ -378,4 +378,4 @@ This is where high-level direction would encounter the complexity of the actual 
 
 ---
 
-[⬅ Series Home](index.md) | [Next➡](plan-in-practice.md)
+[⬅ Series Home](index.md) | [Plan Phase ➡](plan-in-practice.md)
