@@ -1,4 +1,3 @@
-```md
 ---
 layout: default
 title: About
@@ -93,4 +92,3 @@ bajajrahul001@gmail.com
 </div>
 
 ---
-```
