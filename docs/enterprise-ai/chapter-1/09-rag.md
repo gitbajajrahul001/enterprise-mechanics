@@ -438,3 +438,7 @@ It became foundational because it allowed enterprises to operationalize:
 - and real-world information retrieval
 
 without retraining massive models themselves.
+
+---
+
+[⬅ Series Home](index.md) | [⬅ Hallucinations](08-hallucination.md) | [Agents➡](10-agents.md)

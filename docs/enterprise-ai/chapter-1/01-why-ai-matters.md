@@ -281,3 +281,7 @@ Everything else:
 - and autonomous workflows
 
 emerges from this foundational shift.
+
+---
+
+[⬅ Series Home](index.md) | [Large Language Models➡](02-llm.md)

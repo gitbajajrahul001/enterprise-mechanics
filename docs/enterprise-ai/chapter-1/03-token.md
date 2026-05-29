@@ -307,3 +307,7 @@ Understanding tokens is foundational because:
 - and every context limitation
 
 ultimately depends on them.
+
+---
+
+[⬅ Series Home](index.md) | [⬅ Large Language Models](02-llm.md) |  [Embeddings➡](04-embeddings.md)

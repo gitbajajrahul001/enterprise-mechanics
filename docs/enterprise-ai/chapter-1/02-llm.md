@@ -348,3 +348,7 @@ Everything else:
 - and enterprise AI platforms
 
 is built on top of that foundation.
+
+---
+
+[⬅ Series Home](index.md) | [⬅ Why AI Matters](01-why-ai-matters.md) | [Tokens➡](03-token.md)

@@ -348,3 +348,7 @@ This limitation shaped nearly every major architectural pattern in modern AI sys
 - and context engineering.
 
 Understanding context windows is essential to understanding enterprise AI architecture.
+
+---
+
+[⬅ Series Home](index.md) | [⬅ Transformers & Attention](05-transformers-and-attention.md) |  [Inference➡](07-inference.md)

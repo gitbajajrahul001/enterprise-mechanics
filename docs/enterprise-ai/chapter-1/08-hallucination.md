@@ -385,3 +385,7 @@ They are a direct consequence of:
 - and statistical language modeling itself.
 
 Understanding hallucinations is essential because modern enterprise AI architecture largely exists to control and mitigate them.
+
+---
+
+[⬅ Series Home](index.md) | [⬅ Inference](07-inference.md) | [Retrieval-Augmented Generation (RAG)➡](09-rag.md)

@@ -458,3 +458,6 @@ to:
 - action-oriented AI systems capable of interacting with real operational environments.
 
 Modern enterprise AI is increasingly moving toward this model.
+
+---
+[⬅ Series Home](index.md) | [⬅ Retrieval-Augmented Generation (RAG) | ](09-rag.md) | [The Big Picture➡](11-the-big-picture.md)

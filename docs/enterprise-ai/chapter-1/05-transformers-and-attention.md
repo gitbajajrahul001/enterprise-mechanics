@@ -374,3 +374,7 @@ Transformers fundamentally introduced:
 This breakthrough enabled machines to model language relationships at unprecedented scale.
 
 Modern LLMs are built directly on top of this foundation.
+
+---
+
+[⬅ Series Home](index.md) | [⬅ Embeddings](04-embeddings.md) |  [Context Windows➡](06-context-windows.md)

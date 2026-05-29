@@ -379,3 +379,7 @@ They transformed computing because they enabled systems to operate not just on w
 - but on meaning relationships themselves.
 
 Modern semantic AI infrastructure is built on top of this foundation.
+
+---
+
+[⬅ Series Home](index.md) | [⬅ Tokens](03-token.md) | [Transformers & Attention➡](05-transformers-and-attention.md)
