@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Enterprise AI
 nav_order: 11
@@ -64,51 +63,49 @@ Enterprise AI extends far beyond prompt engineering and chat interfaces. This do
 </div>
 
 </div>
-
+```html
 <div class="section-heading built-for-heading">
-<h2>Series Roadmap</h2>
+<h2>Learning Journey</h2>
 <p>
-The content progresses from foundational concepts to enterprise-scale implementation patterns and future AI architectures.
+The series progresses from foundational concepts to enterprise-scale implementation patterns and future AI architectures.
 </p>
 </div>
 
 <div class="series-grid">
 
 <div class="series-card">
-<h3>Chapter 01 — Foundations</h3>
+<h3><a href="chapter-01/">Chapter 01 — Foundations</a></h3>
 <p>Core AI concepts, terminology, mental models, and the shift from deterministic to probabilistic computing.</p>
 </div>
 
 <div class="series-card">
-<h3>Chapter 02 — Data & Knowledge</h3>
+<h3><a href="chapter-02/">Chapter 02 — Data & Knowledge</a></h3>
 <p>Embeddings, vector databases, chunking strategies, retrieval systems, and information architecture.</p>
 </div>
 
 <div class="series-card">
-<h3>Chapter 03 — Models & Infrastructure</h3>
+<h3><a href="chapter-03/">Chapter 03 — Models & Infrastructure</a></h3>
 <p>Transformers, LLMs, training, inference, GPUs, and the modern AI hardware ecosystem.</p>
 </div>
 
 <div class="series-card">
-<h3>Chapter 04 — Applied AI Engineering</h3>
+<h3><a href="chapter-04/">Chapter 04 — Applied AI Engineering</a></h3>
 <p>Prompt engineering, RAG architectures, evaluation methods, and production implementation patterns.</p>
 </div>
 
 <div class="series-card">
-<h3>Chapter 05 — Agentic Systems</h3>
+<h3><a href="chapter-05/">Chapter 05 — Agentic Systems</a></h3>
 <p>Autonomous workflows, memory systems, planning, reasoning, orchestration, and agent frameworks.</p>
 </div>
 
 <div class="series-card">
-<h3>Chapter 06 — Enterprise AI</h3>
+<h3><a href="chapter-06/">Chapter 06 — Enterprise AI</a></h3>
 <p>Governance, security, operating models, platform architecture, and enterprise AI adoption strategies.</p>
 </div>
 
 <div class="series-card">
-<h3>Chapter 07 — Future Frontiers</h3>
+<h3><a href="chapter-07/">Chapter 07 — Future Frontiers</a></h3>
 <p>Frontier models, reasoning systems, AI-native architectures, and the future evolution of intelligent systems.</p>
-</div>
-
 </div>
 
 <div class="section-heading built-for-heading">
