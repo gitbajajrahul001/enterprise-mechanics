@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Chunking Strategies
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 6
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Chunking Strategies
 > Understanding how enterprise knowledge is divided, structured, and prepared for retrieval in modern AI systems.
 
@@ -490,3 +490,7 @@ It became foundational because:
 
 all depend heavily on:
 > how enterprise knowledge is divided before retrieval even begins.
+
+---
+
+[⬅ Series Home](index.md) | [⬅Vector Databases](05-vector-databases.md) | [Metadata and Grounding➡](07-metadata-and-grounding.md)

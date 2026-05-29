@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Semantic Search
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 4
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Semantic Search
 > Understanding how modern AI systems search by meaning instead of exact keywords.
 
@@ -484,3 +484,7 @@ into:
 - semantic knowledge retrieval systems.
 
 Modern RAG and enterprise AI architectures are built directly on top of this foundation.
+
+---
+
+[⬅ Series Home](index.md) | [⬅Information Retrieval](03-information-retrieval.md) | [Vector Databases➡](05-vector-databases.md)

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Vector Databases
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 5
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Vector Databases
 > Understanding the infrastructure layer that powers semantic retrieval in modern AI systems.
 
@@ -472,3 +472,7 @@ They became critical because modern AI systems increasingly depend on:
 - meaning-aware retrieval,
 - contextual grounding,
 - and probabilistic knowledge access.
+
+---
+
+[⬅ Series Home](index.md) | [⬅Semantic Search](04-semantic-search.md) | [Chunking Strategies➡](06-chunking-strategies.md)

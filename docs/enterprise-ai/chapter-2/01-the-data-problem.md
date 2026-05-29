@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: The Data Problem
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 1
 ---
 
-# Chapter 2 — Data and Information Architecture
 # The Data Problem
 > Understanding why modern AI systems are fundamentally constrained by information quality, retrieval quality, and data architecture.
 
@@ -428,3 +428,7 @@ toward:
 > "How do we architect high-quality, retrievable, machine-operable knowledge systems?"
 
 This is one of the most important transitions happening in enterprise computing today.
+
+---
+
+[⬅ Series Home](index.md) | [Structured vs Unstructured Data➡](02-structured-vs-unstructured-data.md)

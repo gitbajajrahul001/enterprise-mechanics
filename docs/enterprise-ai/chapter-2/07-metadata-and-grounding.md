@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Metadata and Grounding
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 7
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Metadata and Grounding
 > Understanding how modern AI systems establish contextual reliability, retrieval precision, and enterprise trust.
 
@@ -526,3 +526,7 @@ Modern enterprise systems increasingly depend on:
 - metadata-aware retrieval,
 - permission-aware grounding,
 - and trusted contextual information architectures.
+
+---
+
+[⬅ Series Home](index.md) | [⬅Chunking Strategies](06-chunking-strategies.md) | [Context Engineering➡](08-context-engineering.md)

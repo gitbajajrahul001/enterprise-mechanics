@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Structured vs Unstructured Data
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 2
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Structured vs Unstructured Data
 > Understanding the fundamental difference between traditional enterprise data systems and modern AI-operable knowledge systems.
 
@@ -458,3 +458,7 @@ Unstructured data is driving modern AI computing.
 
 The future of enterprise AI increasingly depends on:
 > bridging deterministic structured systems with probabilistic semantic knowledge systems.
+
+---
+
+[⬅ Series Home](index.md) | [⬅The Data Problem](01-the-data-problem.md) | [Information Retrieval➡](03-information-retrieval.md)

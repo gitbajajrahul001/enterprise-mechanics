@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Memory Systems
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 9
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Memory Systems
 > Understanding how modern AI systems simulate continuity, persistence, and contextual awareness across interactions.
 
@@ -511,3 +511,7 @@ Modern AI systems increasingly depend on:
 - and orchestration-driven continuity
 
 to simulate persistent operational intelligence across interactions.
+
+---
+
+[⬅ Series Home](index.md) | [⬅Context Engineering](08-context-engineering.md) | [Knowledge Problem➡](10-the-enterprise-knowledge-problem.md)

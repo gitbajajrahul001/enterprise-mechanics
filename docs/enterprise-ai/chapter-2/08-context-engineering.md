@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Context Engineering
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 8
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Context Engineering
 > Understanding how modern AI systems construct, prioritize, and optimize information before inference occurs.
 
@@ -517,3 +517,7 @@ Modern AI systems increasingly succeed or fail based on:
 - what information enters context,
 - how it is structured,
 - and how effectively it supports grounded probabilistic reasoning.
+
+---
+
+[⬅ Series Home](index.md) | [⬅Metadata and Grounding](07-metadata-and-grounding.md) | [Memory Systems➡](09-memory-systems.md)

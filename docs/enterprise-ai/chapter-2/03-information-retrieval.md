@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Information Retrieval
+parent: Chapter 02 — Data and Information Architecture
+nav_order: 3
 ---
 
-# Chapter 2 — Data and Information Architecture
 # Information Retrieval
 > Understanding how modern AI systems locate relevant knowledge across massive information spaces.
 
@@ -469,3 +469,7 @@ Retrieval is no longer:
 
 It is becoming:
 > one of the core infrastructure layers of enterprise AI systems.
+
+---
+
+[⬅ Series Home](index.md) | [⬅Structured vs Unstructured Data](02-structured-vs-unstructured-data.md) | [Semantic Search➡](04-semantic-search.md)
