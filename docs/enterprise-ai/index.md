@@ -74,7 +74,7 @@ Enterprise AI extends far beyond prompt engineering and chat interfaces. This se
 <div class="series-grid">
 
 <div class="series-card">
-<h3><a href="chapter-1/">Chapter 01 — Foundations</a></h3>
+<h3><a href="chapter-1/">Chapter 01 — Core Building Blocks</a></h3>
 <p>Core AI concepts, terminology, mental models, and the shift from deterministic to probabilistic computing.</p>
 </div>
 

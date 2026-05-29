@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Structured vs Unstructured Data
-parent: Chapter 02 — Data and Information Architecture
+parent: Chapter 02 - Data & Knowledge Architecture
 nav_order: 2
 ---
 
