@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 11
 ---
 
-# Chapter 1 — Core Primitives
 # The Big Picture
 > Connecting the foundational building blocks of modern AI systems.
 

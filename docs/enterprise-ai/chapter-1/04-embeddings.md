@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 4
 ---
 
-# Chapter 1 — Core Primitives
 # Embeddings
 > Understanding how AI systems represent meaning mathematically.
 

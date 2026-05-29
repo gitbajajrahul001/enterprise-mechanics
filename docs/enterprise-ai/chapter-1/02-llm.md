@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 2
 ---
 
-# Chapter 1 — Core Primitives
 # What Is an LLM?
 > Understanding the foundational engine behind modern AI systems.
 

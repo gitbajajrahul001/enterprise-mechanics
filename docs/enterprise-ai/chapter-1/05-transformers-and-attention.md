@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 5
 ---
 
-# Chapter 1 — Core Primitives
 # Transformers and Attention
 > Understanding the architectural breakthrough behind modern LLMs.
 

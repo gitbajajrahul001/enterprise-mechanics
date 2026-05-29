@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 3
 ---
 
-# Chapter 1 — Core Primitives
 # Tokens
 > Understanding the smallest operational unit inside modern language models.
 

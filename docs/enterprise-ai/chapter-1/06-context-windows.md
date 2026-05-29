@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 6
 ---
 
-# Chapter 1 — Core Primitives
 # Context Windows
 > Understanding the operational memory boundary of modern language models.
 

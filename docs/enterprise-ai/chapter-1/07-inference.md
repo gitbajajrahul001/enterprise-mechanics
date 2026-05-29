@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 7
 ---
 
-# Chapter 1 — Core Primitives
 # Inference
 > Understanding how language models actually generate responses.
 

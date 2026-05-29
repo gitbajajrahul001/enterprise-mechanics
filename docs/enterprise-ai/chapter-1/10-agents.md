@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 10
 ---
 
-# Chapter 1 — Core Primitives
 # Agents
 > Understanding the transition from language generation systems to autonomous action-oriented AI systems.
 

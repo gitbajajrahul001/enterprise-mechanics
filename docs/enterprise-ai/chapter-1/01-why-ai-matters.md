@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 1
 ---
 
-# Chapter 1 — Core Primitives
 # Why AI Matters
 
 > Understanding the actual technological shift behind modern AI systems.

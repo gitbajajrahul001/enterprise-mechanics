@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 9
 ---
 
-# Chapter 1 — Core Primitives
 # RAG (Retrieval-Augmented Generation)
 > Understanding how modern AI systems retrieve external knowledge to improve reliability and contextual accuracy.
 

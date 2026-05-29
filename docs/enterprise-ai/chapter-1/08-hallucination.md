@@ -5,7 +5,6 @@ parent: Chapter 01 - Core Building Blocks
 nav_order: 8
 ---
 
-# Chapter 1 — Core Primitives
 # Hallucinations
 > Understanding why language models generate incorrect or fabricated outputs.
 
