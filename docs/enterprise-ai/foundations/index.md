@@ -3,7 +3,7 @@ layout: default
 title: Enterprise AI
 nav_order: 11
 has_children: true
-------------------
+---
 
 <div class="hero-section">
 
@@ -105,9 +105,12 @@ Enterprise AI extends far beyond prompt engineering and chat interfaces. This se
 
 <div class="series-card">
 <h3><a href="chapter-07/">Chapter 07 — Future Frontiers</a></h3>
-<p>Frontier models, reasoning systems, AI-native architectures, and the future evolution of intelligent systems.</p>
+<p>
+Frontier models, reasoning systems, AI-native architectures, and the future evolution of intelligent systems.
 </p>
 </div>
+
+</div> <!-- CLOSE series-grid -->
 
 <div class="section-heading built-for-heading">
 <h2>Objective</h2>
