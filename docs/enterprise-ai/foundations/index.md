@@ -21,7 +21,7 @@ A structured series focused on AI fundamentals, enterprise AI architecture, RAG 
 
 </div>
 
-</div>
+<!-- 
 
 <div class="section-heading">
 <h2>What This Domain Covers</h2>
@@ -62,12 +62,12 @@ Enterprise AI extends far beyond prompt engineering and chat interfaces. This do
 <p>Governance, security, operating models, platform architecture, and enterprise adoption patterns.</p>
 </div>
 
-</div>
-```html
+-->
+
 <div class="section-heading built-for-heading">
 <h2>Learning Journey</h2>
 <p>
-The series progresses from foundational concepts to enterprise-scale implementation patterns and future AI architectures.
+Enterprise AI extends far beyond prompt engineering and chat interfaces. This series explores the architectural building blocks, infrastructure layers, operational considerations, and design patterns that underpin modern AI systems. The series progresses from foundational concepts to enterprise-scale implementation patterns and future AI architectures.
 </p>
 </div>
 
@@ -106,6 +106,7 @@ The series progresses from foundational concepts to enterprise-scale implementat
 <div class="series-card">
 <h3><a href="chapter-07/">Chapter 07 — Future Frontiers</a></h3>
 <p>Frontier models, reasoning systems, AI-native architectures, and the future evolution of intelligent systems.</p>
+</p>
 </div>
 
 <div class="section-heading built-for-heading">
