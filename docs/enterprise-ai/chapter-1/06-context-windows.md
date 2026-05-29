@@ -1,7 +1,9 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Context Windows
+parent: Chapter 01 - Core Building Blocks
+nav_order: 6
+has_children: true
 ---
 
 # Chapter 1 — Core Primitives

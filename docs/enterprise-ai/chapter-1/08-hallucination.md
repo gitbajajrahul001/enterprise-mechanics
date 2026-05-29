@@ -1,7 +1,9 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Hallucinations
+parent: Chapter 01 - Core Building Blocks
+nav_order: 8
+has_children: true
 ---
 
 # Chapter 1 — Core Primitives

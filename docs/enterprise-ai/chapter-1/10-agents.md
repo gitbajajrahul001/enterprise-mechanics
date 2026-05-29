@@ -1,7 +1,9 @@
 ---
 layout: default
-title: ACME Overview
-nav_exclude: true
+title: Agents
+parent: Chapter 01 - Core Building Blocks
+nav_order: 10
+has_children: true
 ---
 
 # Chapter 1 — Core Primitives
@@ -460,4 +462,4 @@ to:
 Modern enterprise AI is increasingly moving toward this model.
 
 ---
-[⬅ Series Home](index.md) | [⬅ Retrieval-Augmented Generation (RAG) | ](09-rag.md) | [The Big Picture➡](11-the-big-picture.md)
+[⬅ Series Home](index.md) | [⬅ Retrieval-Augmented Generation (RAG)](09-rag.md) | [The Big Picture➡](11-the-big-picture.md)
