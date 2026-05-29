@@ -3,7 +3,6 @@ layout: default
 title: Tokens
 parent: Chapter 01 - Core Building Blocks
 nav_order: 3
-has_children: true
 ---
 
 # Chapter 1 — Core Primitives

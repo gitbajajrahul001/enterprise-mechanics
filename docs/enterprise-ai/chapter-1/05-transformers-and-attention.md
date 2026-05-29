@@ -3,7 +3,6 @@ layout: default
 title: Transformers & Attention
 parent: Chapter 01 - Core Building Blocks
 nav_order: 5
-has_children: true
 ---
 
 # Chapter 1 — Core Primitives

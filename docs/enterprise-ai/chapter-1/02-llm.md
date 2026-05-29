@@ -3,7 +3,6 @@ layout: default
 title: Large Language Models
 parent: Chapter 01 - Core Building Blocks
 nav_order: 2
-has_children: true
 ---
 
 # Chapter 1 — Core Primitives

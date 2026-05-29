@@ -3,7 +3,6 @@ layout: default
 title: Agents
 parent: Chapter 01 - Core Building Blocks
 nav_order: 10
-has_children: true
 ---
 
 # Chapter 1 — Core Primitives

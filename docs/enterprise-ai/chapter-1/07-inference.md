@@ -3,7 +3,6 @@ layout: default
 title: Inference
 parent: Chapter 01 - Core Building Blocks
 nav_order: 7
-has_children: true
 ---
 
 # Chapter 1 — Core Primitives

@@ -3,7 +3,6 @@ layout: default
 title: Why AI Matters
 parent: Chapter 01 - Core Building Blocks
 nav_order: 1
-has_children: true
 ---
 
 # Chapter 1 — Core Primitives
