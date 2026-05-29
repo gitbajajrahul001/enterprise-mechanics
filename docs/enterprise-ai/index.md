@@ -74,37 +74,37 @@ Enterprise AI extends far beyond prompt engineering and chat interfaces. This se
 <div class="series-grid">
 
 <div class="series-card">
-<h3><a href="chapter-01/">Chapter 01 — Foundations</a></h3>
+<h3><a href="chapter-1/">Chapter 01 — Foundations</a></h3>
 <p>Core AI concepts, terminology, mental models, and the shift from deterministic to probabilistic computing.</p>
 </div>
 
 <div class="series-card">
-<h3><a href="chapter-02/">Chapter 02 — Data & Knowledge</a></h3>
+<h3><a href="chapter-2/">Chapter 02 — Data & Knowledge</a></h3>
 <p>Embeddings, vector databases, chunking strategies, retrieval systems, and information architecture.</p>
 </div>
 
 <div class="series-card">
-<h3><a href="chapter-03/">Chapter 03 — Models & Infrastructure</a></h3>
+<h3><a href="chapter-3/">Chapter 03 — Models & Infrastructure</a></h3>
 <p>Transformers, LLMs, training, inference, GPUs, and the modern AI hardware ecosystem.</p>
 </div>
 
 <div class="series-card">
-<h3><a href="chapter-04/">Chapter 04 — Applied AI Engineering</a></h3>
+<h3><a href="chapter-4/">Chapter 04 — Applied AI Engineering</a></h3>
 <p>Prompt engineering, RAG architectures, evaluation methods, and production implementation patterns.</p>
 </div>
 
 <div class="series-card">
-<h3><a href="chapter-05/">Chapter 05 — Agentic Systems</a></h3>
+<h3><a href="chapter-5/">Chapter 05 — Agentic Systems</a></h3>
 <p>Autonomous workflows, memory systems, planning, reasoning, orchestration, and agent frameworks.</p>
 </div>
 
 <div class="series-card">
-<h3><a href="chapter-06/">Chapter 06 — Enterprise AI</a></h3>
+<h3><a href="chapter-6/">Chapter 06 — Enterprise AI</a></h3>
 <p>Governance, security, operating models, platform architecture, and enterprise AI adoption strategies.</p>
 </div>
 
 <div class="series-card">
-<h3><a href="chapter-07/">Chapter 07 — Future Frontiers</a></h3>
+<h3><a href="chapter-7/">Chapter 07 — Future Frontiers</a></h3>
 <p>
 Frontier models, reasoning systems, AI-native architectures, and the future evolution of intelligent systems.
 </p>
