@@ -6,7 +6,8 @@ nav_order: 10
 ---
 
 # The Enterprise Knowledge Problem
-> Understanding why enterprise AI is fundamentally a knowledge architecture challenge.
+
+Understanding why enterprise AI is fundamentally a knowledge architecture challenge.
 
 ---
 

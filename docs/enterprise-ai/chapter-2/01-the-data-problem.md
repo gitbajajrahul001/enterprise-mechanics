@@ -6,7 +6,8 @@ nav_order: 1
 ---
 
 # The Data Problem
-> Understanding why modern AI systems are fundamentally constrained by information quality, retrieval quality, and data architecture.
+
+Understanding why modern AI systems are fundamentally constrained by information quality, retrieval quality, and data architecture.
 
 ---
 

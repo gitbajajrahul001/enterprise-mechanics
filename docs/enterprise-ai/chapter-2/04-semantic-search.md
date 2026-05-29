@@ -6,7 +6,8 @@ nav_order: 4
 ---
 
 # Semantic Search
-> Understanding how modern AI systems search by meaning instead of exact keywords.
+
+Understanding how modern AI systems search by meaning instead of exact keywords.
 
 ---
 

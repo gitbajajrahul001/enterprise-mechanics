@@ -6,7 +6,8 @@ nav_order: 2
 ---
 
 # Structured vs Unstructured Data
-> Understanding the fundamental difference between traditional enterprise data systems and modern AI-operable knowledge systems.
+
+Understanding the fundamental difference between traditional enterprise data systems and modern AI-operable knowledge systems.
 
 ---
 

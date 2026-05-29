@@ -6,7 +6,8 @@ nav_order: 7
 ---
 
 # Metadata and Grounding
-> Understanding how modern AI systems establish contextual reliability, retrieval precision, and enterprise trust.
+
+Understanding how modern AI systems establish contextual reliability, retrieval precision, and enterprise trust.
 
 ---
 

@@ -6,7 +6,8 @@ nav_order: 8
 ---
 
 # Context Engineering
-> Understanding how modern AI systems construct, prioritize, and optimize information before inference occurs.
+
+Understanding how modern AI systems construct, prioritize, and optimize information before inference occurs.
 
 ---
 

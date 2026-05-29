@@ -6,7 +6,8 @@ nav_order: 5
 ---
 
 # Vector Databases
-> Understanding the infrastructure layer that powers semantic retrieval in modern AI systems.
+
+Understanding the infrastructure layer that powers semantic retrieval in modern AI systems.
 
 ---
 

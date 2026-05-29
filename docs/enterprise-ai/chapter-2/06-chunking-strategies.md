@@ -6,7 +6,8 @@ nav_order: 6
 ---
 
 # Chunking Strategies
-> Understanding how enterprise knowledge is divided, structured, and prepared for retrieval in modern AI systems.
+
+Understanding how enterprise knowledge is divided, structured, and prepared for retrieval in modern AI systems.
 
 ---
 

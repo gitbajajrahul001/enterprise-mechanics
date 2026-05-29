@@ -6,7 +6,8 @@ nav_order: 9
 ---
 
 # Memory Systems
-> Understanding how modern AI systems simulate continuity, persistence, and contextual awareness across interactions.
+
+Understanding how modern AI systems simulate continuity, persistence, and contextual awareness across interactions.
 
 ---
 

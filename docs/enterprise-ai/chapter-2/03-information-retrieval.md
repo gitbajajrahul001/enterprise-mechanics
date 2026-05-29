@@ -6,7 +6,8 @@ nav_order: 3
 ---
 
 # Information Retrieval
-> Understanding how modern AI systems locate relevant knowledge across massive information spaces.
+
+Understanding how modern AI systems locate relevant knowledge across massive information spaces.
 
 ---
 
